@@ -21,6 +21,10 @@ If you use any part of the code, please consider citing us:
 series = {WSDM '24}
 }
 ```
+
+# Poster
+![Poster](recjpq_training_large_catalogue_sequential_1.png)
+
 # Instruction
 
 The code is based on  our aprec framework. Please clone this code and follow the original instructions https://github.com/asash/bert4rec_repro to setup the environment. 
